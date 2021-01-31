@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "firstName": "Роман",
+      "lastName": "Романов",
+      "userName": "rendi",
+      "phone": "+380950376147",
+      "email": "rendiak24@gmail.com",
+      "password": "qwerty",
+      "addressType": "Архипенка",
+      "address": "Архипенка",
+      "city": "Львів",
+      "postalCode": "64027",
+      "id": 1
+    }
+  ]
+}
